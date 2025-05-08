@@ -129,6 +129,7 @@ const Profile = () => {
                 onChange={handleInputChange}
                 placeholder="https://i.pinimg.com/736x/01/e1/35/01e135a5bcabe81ce279076de8dfbfd9.jpg
               />
+              
               <small>Leave blank to use initials as avatar</small>
             </div>
 
